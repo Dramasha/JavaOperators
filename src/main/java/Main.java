@@ -41,6 +41,5 @@ public class Main {
         System.out.println("Celoe/Drobnoe= " + (Celoe / Drobnoe));
         System.out.println("Celoe*Drobnoe= " + (Celoe * Drobnoe));
         System.out.println("Celoe%Drobnoe= " + (Celoe % Drobnoe));
-
     }
 }
