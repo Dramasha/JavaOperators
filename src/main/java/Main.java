@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
         // Математические
         int x = 9;
         int y = 2;
