@@ -34,6 +34,7 @@ public class Main {
         // Комбинация примитивов
         int Celoe = 8;
         double Drobnoe = 2.5;
+
         System.out.println("\nCombitanion");
         System.out.println("Celoe+Drobnoe= " + (Celoe + Drobnoe));
         System.out.println("Celoe-Drobnoe= " + (Celoe - Drobnoe));
